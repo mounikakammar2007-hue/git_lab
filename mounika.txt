@@ -1,4 +1,3 @@
 my first git lab
 work in progress
 work hard
-work
